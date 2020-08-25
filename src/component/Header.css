@@ -1,0 +1,18 @@
+.block{
+    padding:10px 50px;
+    background:#0d0628;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.pizza{
+   display: flex;
+   align-items: center;
+}
+.text{
+    margin-left: 20px;
+    font-size:30px;
+    color:yellow;
+    font-family: "Alata,sans-serif";
+}
